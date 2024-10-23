@@ -76,7 +76,8 @@ To set up AWS credentials, follow these steps:
 
 ## Acknowledgments
 - Dataset sourced from WeCloudData.
+- Project thanks to WeCloudData.
 - Special thanks to the Databricks community for ongoing support.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
